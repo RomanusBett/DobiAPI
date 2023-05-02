@@ -141,6 +141,7 @@ venv.bak/
 /site
 
 # mypy
+migrations/
 .mypy_cache/
 .dmypy.json
 dmypy.json
